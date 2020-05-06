@@ -49,7 +49,7 @@
 					<input id="regbtn" name="Regbtn" type="submit" value="Register"class="btn btn-primary">
 					<input id="resetbtn" name="Resetbtn" type="reset" value="Reset" class="btn btn-danger">
 					<input id="deletebtn" name="deletebtn" type="reset" value="Delete" class="btn btn-warning">
-					<input id="updatebtn" name="deletebtn" type="submit" value="Update" class="btn btn-success">
+					<input id="updatebtn" name="updatebtn" type="submit" value="Update" class="btn btn-success">
 					
 				</form>
 
