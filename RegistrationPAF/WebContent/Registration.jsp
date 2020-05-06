@@ -15,7 +15,7 @@
 	<meta charset="ISO-8859-1">
 
 	<meta charset="ISO-8859-1">
-	<title>Registration</title>
+	<title>Registration page</title>
 
 
 	<div class="container">
